@@ -1,5 +1,5 @@
 //Team 5 - Aaron Bisel, Alex Hobson, Chris Wilcox
-
+//Chris Wilcox
 package mazearray;
 
 import java.util.Random;
